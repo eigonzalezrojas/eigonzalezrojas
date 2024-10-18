@@ -6,7 +6,7 @@
 💡 &nbsp;I enjoy exploring new technologies and developing software solutions.\
 🎓 &nbsp;I hold a degree in Computer Engineering, which I obtained in 2019, and a Master’s in Educational Informatics since 2021. My professional experience spans both backend and frontend development\
 ✉️ &nbsp;You can shoot me an email at eithelgonzalezrojas@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp](https://drive.google.com/file/d/1XtBs4d5njwyOqtaySwemBx7Ri5UJWXZV/view?usp=sharing)](https://drive.google.com/file/d/1XtBs4d5njwyOqtaySwemBx7Ri5UJWXZV/view?usp=sharing)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1XtBs4d5njwyOqtaySwemBx7Ri5UJWXZV/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
