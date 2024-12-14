@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Eithel González - Computer Engineer
+## 👋 &nbsp;Hey there! I'm Eithel González - Web Developer
 
 ### 👨🏻‍💻 &nbsp;About Me
 
